@@ -120,7 +120,7 @@ void stairs_2() {
 }
 
 void cell () {
-	text.text = "You are in a prison cell, and you want to escape. There are " +
+	text.text = "You wake up feeling groggy, you start to get your bearing " +
 							"some dirty sheets on the bed, a mirror on the wall, and the door " +
 							"is locked from the outside.\n\n" +
 							"Press S to view Sheets, M to view Mirror and L to view Lock" ;
